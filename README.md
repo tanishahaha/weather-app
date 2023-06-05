@@ -3,10 +3,11 @@
 This Weather App is created using Html, Css and JavaScript.
 
 One need to change the value of the "const key" variable present in the "app.js" file
-To obtain your own api key :
---> Go to Open Weather Map Website
---> Sign Up 
---> Get your api key 
+<br>
+To obtain your own api key :<br>
+--> Go to Open Weather Map Website<br>
+--> Sign Up <br>
+--> Get your api key <br>
 
 Output :  
 
