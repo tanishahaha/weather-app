@@ -1,6 +1,6 @@
 # weather-app
 
-This Weather App is created using Html, Css and JavaScript.
+This Weather App is created using HTML, CSS and Javascript.
 
 One need to change the value of the "const key" variable present in the "app.js" file
 <br>
